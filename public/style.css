@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+.navbar{
+    background-color: rgba(1, 125, 100, 0.5);
+}
+
+.navbar-brand, .nav-link {
+    color: white;
+}
+
+.text-center{
+    background-size: 80%;
+}
+
+#firstColumn {
+    margin-top: 8rem;
+    padding-left: 4rem;
+}
+
+#firstColumn #heading {
+    font-size: 5rem;
+}
+
+#firstColumn p {
+    font-size: 1rem;
+    font-weight: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#login, #signup {
+    background-color: ;
+    margin-right: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 3rem;
+    background-color: rgba(1, 125, 100, 0.5);
+}
